@@ -6,7 +6,7 @@ Keep checking the repository, because I update more technologies/topics regularl
 - This is the complete repository of all my notes &amp; learnings over the years
 - You may refer them at your wish
 
-Click to view my notes <a href="https://docs.google.com/document/d/16r48DgOgoj1AKGCGSkIq5BMLmA48ddWWTsRnSrFWXs8/edit?usp=sharing">here</a>
+Click to view my notes <a target="_blank" href="https://docs.google.com/document/d/16r48DgOgoj1AKGCGSkIq5BMLmA48ddWWTsRnSrFWXs8/edit?usp=sharing">here</a>
 
 ## Topics the Notes Contain:
 
